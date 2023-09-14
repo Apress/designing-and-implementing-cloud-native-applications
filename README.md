@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [Designing and Implementing Cloud-native Applications Using Microsoft Azure Cosmos DB: Study Companion for the DP-420 Exam](https://www.link.springer.com/book/10.1007/9781484295465) by Steve Flowers (Apress, 2023).
+This repository accompanies [Designing and Implementing Cloud-native Applications Using Microsoft Azure Cosmos DB: Study Companion for the DP-420 Exam](https://www.link.springer.com/book/10.1007/978-1-4842-9546-5) by Steve Flowers (Apress, 2023).
 
 [comment]: #cover
 ![Cover image](9781484295465.jpg)
