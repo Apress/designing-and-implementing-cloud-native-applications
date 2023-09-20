@@ -1,0 +1,18 @@
+{
+    "id" : "839cd4b3-0785-4868-9ec3-e8a12b4b2519",
+    "user_id" : "876538f6-38af-4026-8ec5-ded2140ea6e2",
+    "doc_type" : "user_cart",
+    "user_cart" : [
+        {
+            "item_id" : "1c42d3a1-e9ab-456d-85b4-4441c929044f",
+            "item_name" : "Chocolate Coverd Strawberries",
+            "quantity" : 3
+        },
+        {
+            "item_id" : "cda25e5c-7b3f-4181-91f9-ddb49dea5443",
+            "item_name" : "Pineapple",
+            "quantity" : 1
+        }
+    ]
+    Additional properties omitted...
+}

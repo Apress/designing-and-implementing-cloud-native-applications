@@ -1,0 +1,21 @@
+{
+    "id" : 123,
+    "revisionNumber" : 3,
+    "orderDate" : "2022/08/06 04:00:00",
+    "dueDate" : "2022/08/12 04:00:00",
+    "shipDate" : "",
+    "status" : "pending",
+    "Product" : [
+        {
+            "id" : 101,
+            "name" : "widget1",
+            "quantity" : 3
+        },
+        {
+            "id" : 105,
+            "name" : "widget7",
+            "quantity" : 1
+        }
+    ],
+    Additional properties ommitted...
+}
